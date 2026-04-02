@@ -1,4 +1,6 @@
-# Terraform S3 Backend Lab
+# 4640 Week 13 lab
+
+### Completed by Jessica, Cole, Kyle
 
 ## When is the state file created?
 
@@ -16,8 +18,8 @@ No, the lock file is temporary. It only exists while Terraform is running and is
 
 ### State File
 
-![State File](state-file.png)
+<img width="2878" height="1614" alt="state-file" src="https://github.com/user-attachments/assets/ce3c4716-1340-4bd2-afe9-6a502130ddda" />
 
 ### Lock File
 
-![Lock File](lock-file.png)
+<img width="2880" height="1604" alt="lock-file" src="https://github.com/user-attachments/assets/051f30d5-282c-44cd-bf27-a6181f1c7c51" />

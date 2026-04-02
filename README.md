@@ -1,6 +1,6 @@
 # 4640 Week 13 lab
 
-### Completed by Jessica, Cole, Kyle
+### Completed by Kyle, Cole, and Jessica
 
 ## When is the state file created?
 
